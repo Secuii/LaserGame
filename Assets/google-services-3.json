@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "91281675400",
+    "firebase_url": "https://conectit-56817.firebaseio.com",
+    "project_id": "conectit-56817",
+    "storage_bucket": "conectit-56817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91281675400:android:bfcc94355dc20466937b3d",
+        "android_client_info": {
+          "package_name": "com.AndresSweetCode.ConnectIT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91281675400-pl45l8nfihls95151bivuqa3nv297gd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1soL9gZj19Exe3dmcdBL1GVBZKZQjKjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91281675400-pl45l8nfihls95151bivuqa3nv297gd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
